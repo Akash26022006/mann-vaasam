@@ -771,7 +771,7 @@
 
 /* Hero */
 .firstimage img{
-    height:80vh;
+    height:450px;
     object-fit:cover;
 }
 
@@ -1013,16 +1013,16 @@
 } */
 
 .boxe1 img{
-    padding-left:48px;
+    padding-left:52px;
 }
 .boxe2 img{
-    padding-left:40px;
+    padding-left:44px;
 }
 .boxe3 img{
-    padding-left:40px;
+    padding-left:44px;
 }
 .boxe4 img{
-    padding-left:40px;
+    padding-left:44px;
 }
 .boxe1{
     margin-bottom: 2px;
